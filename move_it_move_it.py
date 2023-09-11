@@ -5,8 +5,11 @@ import random
 def move_mouse_randomly() -> None:
     current_x, current_y = pyautogui.position()
 
-    x_offset = random.randint(-10, 10)
-    y_offset = random.randint(-10, 10)
+    low_b = -10
+    upper_b = 10
+    
+    x_offset = random.randint(low_b, upper_b)
+    y_offset = random.randint(low_b, upper_b)
 
     new_x = current_x + x_offset
     new_y = current_y + y_offset
@@ -15,7 +18,7 @@ def move_mouse_randomly() -> None:
 
 if __name__ == "__main__":
     second = 60
-    minute = 5
+    minute = 4
     previous_position = pyautogui.position()
     
     while True:
