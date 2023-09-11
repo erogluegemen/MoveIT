@@ -1,6 +1,8 @@
 # MoveIT
 
 Prevent your system from going into a sleep or away state in applications like Skype or Teams by simulating mouse movement.
+![MOVEIT!!!](https://github.com/erogluegemen/MoveIT/assets/30879498/2e6736b9-7bd8-4bb7-b6c3-72c42e038de6)
+
 
 ## Introduction
 
