@@ -23,6 +23,7 @@ The script constantly monitors the mouse cursor's position. If it detects that t
 
 ## Getting Started
 
+## Python Version
 ### Prerequisites
 
 - Python 3.6 or higher
@@ -45,6 +46,9 @@ The script constantly monitors the mouse cursor's position. If it detects that t
 
 <p>After this step, a new folder called <b>'dist'</b> is created in the directory. The dist folder contains the file to be executed.</p>
 
+<hr>
+
+## JavaScript Version
 ### Prerequisites
 
 - Node.js v18.13.0
