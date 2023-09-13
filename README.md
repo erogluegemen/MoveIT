@@ -44,3 +44,8 @@ The script constantly monitors the mouse cursor's position. If it detects that t
    ```
    
 <p>After this step, a new folder called <b>'dist'</b> is created in the directory. The dist folder contains the file to be executed.</p>
+
+## Contributors
+[@Koray Ay](https://github.com/korayay) <br>
+[@Egemen Eroglu](https://github.com/erogluegemen)
+
