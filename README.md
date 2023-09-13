@@ -42,9 +42,32 @@ The script constantly monitors the mouse cursor's position. If it detects that t
    ```bash
    pyinstaller --onefile move_it_move_it.py
    ```
-   
+
 <p>After this step, a new folder called <b>'dist'</b> is created in the directory. The dist folder contains the file to be executed.</p>
 
+### Prerequisites
+
+- Node.js v18.13.0
+- Npm v8.19.3
+- `robotjs` library (install it with `npm install robotjs`)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/erogluegemen/MoveIT.git
+   ```
+2. Run the npm Install Command:
+
+    ```bash
+   npm install robotjs
+   ```
+3. Running JavaScript Code (Node.js): 
+
+    ```bash
+   node move_it_move_it.js 
+   ```
 ## Contributors
 [@Koray Ay](https://github.com/korayay) <br>
 [@Egemen Eroglu](https://github.com/erogluegemen)
