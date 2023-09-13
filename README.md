@@ -9,13 +9,15 @@ Prevent your system from going into a sleep or away state in applications like S
 
 ## Introduction
 
-This Python script is designed to keep your system awake and prevent it from entering sleep or away states in applications like Skype or Teams. It achieves this by simulating mouse movement at regular intervals.
+This Python script is designed to keep your system awake and prevent it from entering sleep or away states in applications like Skype or Teams. It achieves this by simulating mouse movement at regular intervals. <br>
+<i> You can fork the project to add new languages!! </i>
 
-### Supported Operating Systems:
 
-- Windows ✅
-- macOS   ✅
-- Linux   ✅
+| Supported Operating Systems | Supported Languages | 
+|-----------------------------|---------------------|
+| MacOS                       | Python              |
+| Windows                     | JavaScript          |
+| Linux                       |    ...              |
 
 ### How It Works
 
